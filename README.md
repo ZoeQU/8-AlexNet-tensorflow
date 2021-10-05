@@ -4,7 +4,7 @@
 
 ![AlexNet结构图](https://user-images.githubusercontent.com/55481792/135967068-7f45d4ee-9142-42eb-9e47-b485159916b0.png)
 
-# 网络结构
+网络结构：
 
 ![alexnet](https://user-images.githubusercontent.com/55481792/135819320-01a09e94-1e53-4c0d-8146-03076e9b6c2c.png)
 
